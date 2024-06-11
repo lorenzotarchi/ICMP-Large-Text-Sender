@@ -27,10 +27,10 @@ The program takes a large text and splits it into segments, each of which is enc
    Modify the shared key in the code to ensure it is the same on both the sending and receiving programs.
    Modify the `large_text` variable to contain the text you want to send.
 
-   Run the program:
-
-   ### pyhton3 icmp_reciver.py
-   ### python icmp_sender.py
+   1. Run the program:
+      ```bash
+      pyhton3 icmp_reciver.py
+      python icmp_sender.py
 
 ## Code Explanation
 
