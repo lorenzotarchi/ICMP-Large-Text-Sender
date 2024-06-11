@@ -30,7 +30,7 @@ The program takes a large text and splits it into segments, each of which is enc
    1. Run the program:
       ```bash
       pyhton3 icmp_reciver.py
-      python icmp_sender.py
+      python3 icmp_sender.py
 
 ## Code Explanation
 
